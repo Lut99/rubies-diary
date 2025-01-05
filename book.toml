@@ -14,3 +14,4 @@ smart-punctuation = true
 mathjax-support = true
 git-repository-url = "https://github.com/Lut99/rubies-diary"
 git-repository-icon = "fa-github"
+site-url = "/"

@@ -30,7 +30,7 @@ A fight starts between drunkards. The barman sends his companion, who throws the
 
 The band ask for a volunteer. Tweed, the only one standing, is chosen, and fails to play along. Luckily, FranXin hands him a lyre, which he fails to play as well.
 
-Then a dark stranger enters the room with a message, and hands it to Aurellia and her companion. The letter reads: _"Sae some whore,"_ but more poetic. It is written by <u>the mayor of Barovia</u>.
+Then a dark stranger enters the room with a message, and hands it to Aurellia and her companion. The letter reads: _"Save some whore,"_ but more poetic. It is written by <u>the mayor of Barovia</u>.
 
 Tweed and FranXin join, and they take a muddy path to Barovia, after a sceptical challenge from the male mage to Tweed. But then they encounter a thick mist. As they go through it becomes cold, and emerge in a Wintery Barovia.
 
@@ -39,7 +39,7 @@ A German[^1] man fiddles in the bush a bit away. He is surprised by their direct
 The troupe decides to follow the man into a poor cttage. He shares his food, and asks after their origin. This is how we learn that the male wizard is called Kent. He prays to Seluna, the moon goddess. <u>To Aurellia, the man says a healer lives in Vallaky</u>.
 
 Dear diary, I'll tell you:
-- Vampires cannot stand syn;
+- Vampires cannot stand sun;
 - Live in coffins at day;
 - Need to be invited inside;
 - Get hurt by <u>flowing</u> water.

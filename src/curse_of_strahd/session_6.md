@@ -1,4 +1,4 @@
-# Session 6 - 12-10-2024
+# Session idk 6? - 12-10-2024
 
 Dear journal,
 
